@@ -12,7 +12,7 @@
     "multiplier": {
       "type": "number",
       "formtat": "int32",
-      "example": 123
+      "example": 45
     }
   }
 }
