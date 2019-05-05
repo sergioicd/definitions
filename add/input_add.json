@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Core schema meta-schema",
+  "description": "Define the structure of how the input variables for the calculator will be received",
+  "type": "object",
+  "properties": {
+    "addend1": {
+      "type": "number"
+    },
+    "addend2": {
+      "type": "number"
+    }
+  }
+}
