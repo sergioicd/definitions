@@ -14,5 +14,6 @@
       "formtat": "int32",
       "example": 45
     }
-  }
+  },
+  "required": ["multiplicand", "multiplier"]
 }
