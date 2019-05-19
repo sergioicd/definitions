@@ -9,5 +9,5 @@
       "description": "Operation result"
     }
   },
-  "required": ["minuend","substraend"]
+  "required": ["result"]
 }
