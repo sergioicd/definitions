@@ -5,10 +5,13 @@
   "type": "object",
   "properties": {
     "dividend": {
-      "type": "number"
+      "type": "number",
+      "description": "dividen"
     },
     "divisor": {
-      "type": "number"
+      "type": "number",
+      "description": "divisor"
     }
-  }
+  },
+  "required": ["dividen", "divisor"]
 }
