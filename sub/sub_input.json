@@ -6,11 +6,13 @@
   "properties": {
     "minuend": {
       "type": "number",
-      "description": "minuend"
+      "description": "minuend",
+      "example": 25
     },
     "substraend": {
       "type": "number",
-      "description": "substraend"
+      "description": "substraend",
+      "example": 5
     }
   },
   "required": ["minuend","substraend"]
