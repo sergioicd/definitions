@@ -4,6 +4,6 @@
   "description": "Result",
   "type": "object",
   "properties": {
-    "result": 15
+    "result": "number"
   }
 }
