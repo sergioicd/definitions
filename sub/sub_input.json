@@ -5,10 +5,13 @@
   "type": "object",
   "properties": {
     "minuend": {
-      "type": "number"
+      "type": "number",
+      "description": "minuend"
     },
     "substraend": {
-      "type": "number"
+      "type": "number",
+      "description": "substraend"
     }
-  }
+  },
+  "required": ["minuend","substraend"]
 }
