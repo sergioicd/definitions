@@ -6,13 +6,11 @@
   "properties": {
     "multiplicand": {
       "type": "number",
-      "formtat": "int32",
-      "example": 123
+      "formtat": "int32"
     },
     "multiplier": {
       "type": "number",
-      "formtat": "int32",
-      "example": 45
+      "formtat": "int32"
     }
   },
   "required": ["multiplicand", "multiplier"]
