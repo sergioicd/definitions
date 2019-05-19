@@ -5,11 +5,11 @@
   "type": "object",
   "properties": {
     "addend1": {
-      "type": "number"
+      "type": "number",
       "description": "first addend"
     },
     "addend2": {
-      "type": "number"
+      "type": "number",
       "description": "second addend"
     }
   },
